@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Hi, im Brennan
+<h2>✍ Programming Languages</h2>
 <!--
 **brennan-lee/brennan-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
