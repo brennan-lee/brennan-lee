@@ -3,9 +3,9 @@
 <h1>Hi, my name is Brennan<h1>
 <h2>I am 2 time OFSAA Track participant under 800m and a 1 time OFSAA Cross country participant<h2>
 <p>
-  <a Times:>
-  <a 800m: 2:01:08>
-  <a 1500m: 4:19:32>
+  Times:
+  800m: 2:01:08
+  1500m: 4:19:32
 <p>
 <h3>✍ Programming Languages</h3>
 <p>
